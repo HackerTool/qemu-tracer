@@ -1,3 +1,7 @@
 Read the documentation in qemu-doc.html or on http://wiki.qemu-project.org
 
 - QEMU team
+
+
+
+QEMU 源代码 上添加的  tracer, 可以和leaf 上的qemu 对比学习下。。。。
